@@ -9,7 +9,7 @@
   },
   "name": "homework",
   "version": "1.0.0",
-  "main": "BMI_Calculator.js",
+  "main": "rk26-bmiCalculator.js",
   "type":"module",
   "bin": "BMI_Calculator.js",
   "scripts": {
