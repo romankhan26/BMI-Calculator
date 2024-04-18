@@ -7,9 +7,9 @@
     "chalk": "^5.3.0",
     "inquirer": "^9.2.19"
   },
-  "name": "homework",
-  "version": "1.0.0",
-  "main": "rk26-bmiCalculator.js",
+  "name": "rk26-bmicalculator",
+  "version": "1.0.2",
+  "main": "BMI_Calculator.js",
   "type":"module",
   "bin": "BMI_Calculator.js",
   "scripts": {
